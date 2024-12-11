@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelService", "ParcelService\ParcelService.csproj", "{68E869E6-8F95-406E-890A-88EE09BE28DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelService.Test", "ParcelService.Test\ParcelService.Test.csproj", "{8151AE13-DE49-4358-AB49-86F4B7C7D8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68E869E6-8F95-406E-890A-88EE09BE28DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E869E6-8F95-406E-890A-88EE09BE28DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E869E6-8F95-406E-890A-88EE09BE28DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E869E6-8F95-406E-890A-88EE09BE28DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8151AE13-DE49-4358-AB49-86F4B7C7D8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8151AE13-DE49-4358-AB49-86F4B7C7D8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8151AE13-DE49-4358-AB49-86F4B7C7D8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8151AE13-DE49-4358-AB49-86F4B7C7D8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA8CD038-D1CC-472D-807D-69DCA9053DD0}
+	EndGlobalSection
+EndGlobal

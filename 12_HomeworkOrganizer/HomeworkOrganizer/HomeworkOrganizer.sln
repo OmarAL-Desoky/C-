@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkOrganizer", "HomeworkOrganizer\HomeworkOrganizer.csproj", "{9E9339D9-E26A-44C6-AACB-673BBF00B65B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkOrganizer.Test", "HomeworkOrganizer.Test\HomeworkOrganizer.Test.csproj", "{37EBAB33-8F05-4CE6-B27D-31A2F261D5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9339D9-E26A-44C6-AACB-673BBF00B65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9339D9-E26A-44C6-AACB-673BBF00B65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9339D9-E26A-44C6-AACB-673BBF00B65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9339D9-E26A-44C6-AACB-673BBF00B65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37EBAB33-8F05-4CE6-B27D-31A2F261D5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EBAB33-8F05-4CE6-B27D-31A2F261D5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37EBAB33-8F05-4CE6-B27D-31A2F261D5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37EBAB33-8F05-4CE6-B27D-31A2F261D5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D94C06B-4F21-4565-80DD-96823286C910}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\bin\Debug\net6.0\Soccer.deps.json
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\bin\Debug\net6.0\Soccer.dll
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\bin\Debug\net6.0\Soccer.pdb
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\obj\Debug\net6.0\Soccer.csproj.AssemblyReference.cache
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\obj\Debug\net6.0\Soccer.GeneratedMSBuildEditorConfig.editorconfig
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\obj\Debug\net6.0\Soccer.AssemblyInfoInputs.cache
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\obj\Debug\net6.0\Soccer.AssemblyInfo.cs
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\obj\Debug\net6.0\Soccer.csproj.CoreCompileInputs.cache
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\obj\Debug\net6.0\Soccer.dll
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\obj\Debug\net6.0\refint\Soccer.dll
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\obj\Debug\net6.0\Soccer.pdb
+C:\HIF\2BHIF\POSEOO\13_SoccerPlayer\SoccerPlayer\SoccerPlayer\obj\Debug\net6.0\ref\Soccer.dll

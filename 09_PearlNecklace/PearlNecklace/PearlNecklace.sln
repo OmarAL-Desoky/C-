@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PearlNecklace", "PearlNecklace\PearlNecklace.csproj", "{77344850-A10D-4F99-8DD4-12D528441C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PearlNecklace.Test", "PearlNecklace.Test\PearlNecklace.Test.csproj", "{D92B0261-8127-4494-AB72-B288C5E9E70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77344850-A10D-4F99-8DD4-12D528441C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77344850-A10D-4F99-8DD4-12D528441C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77344850-A10D-4F99-8DD4-12D528441C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77344850-A10D-4F99-8DD4-12D528441C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92B0261-8127-4494-AB72-B288C5E9E70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92B0261-8127-4494-AB72-B288C5E9E70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92B0261-8127-4494-AB72-B288C5E9E70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92B0261-8127-4494-AB72-B288C5E9E70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6D594F2-B6DC-4C3F-8CAC-DAA33281F5CA}
+	EndGlobalSection
+EndGlobal

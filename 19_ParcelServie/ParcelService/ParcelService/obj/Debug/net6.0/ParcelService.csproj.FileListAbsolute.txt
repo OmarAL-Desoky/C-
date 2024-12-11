@@ -1,0 +1,12 @@
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\bin\Debug\net6.0\ParcelService.deps.json
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\bin\Debug\net6.0\ParcelService.dll
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\bin\Debug\net6.0\ParcelService.pdb
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\obj\Debug\net6.0\ParcelService.csproj.AssemblyReference.cache
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\obj\Debug\net6.0\ParcelService.GeneratedMSBuildEditorConfig.editorconfig
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\obj\Debug\net6.0\ParcelService.AssemblyInfoInputs.cache
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\obj\Debug\net6.0\ParcelService.AssemblyInfo.cs
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\obj\Debug\net6.0\ParcelService.csproj.CoreCompileInputs.cache
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\obj\Debug\net6.0\ParcelService.dll
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\obj\Debug\net6.0\refint\ParcelService.dll
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\obj\Debug\net6.0\ParcelService.pdb
+C:\HIF\2BHIF\POSEOO\19_ParcelServie\ParcelService\ParcelService\obj\Debug\net6.0\ref\ParcelService.dll

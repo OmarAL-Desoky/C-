@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogBook", "LogBook\LogBook.csproj", "{6A44DF2D-BE9E-410C-A695-9678EA993E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogBook.Test", "LogBook.Test\LogBook.Test.csproj", "{1B6E4B34-5D88-4A96-9077-EAF5E3D07E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A44DF2D-BE9E-410C-A695-9678EA993E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A44DF2D-BE9E-410C-A695-9678EA993E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A44DF2D-BE9E-410C-A695-9678EA993E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A44DF2D-BE9E-410C-A695-9678EA993E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6E4B34-5D88-4A96-9077-EAF5E3D07E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E4B34-5D88-4A96-9077-EAF5E3D07E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6E4B34-5D88-4A96-9077-EAF5E3D07E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6E4B34-5D88-4A96-9077-EAF5E3D07E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9244ADF-4F75-4657-97C2-A766DEBCAA95}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diner", "Diner\Diner.csproj", "{0EF3BB8D-7A1A-4DBD-9A92-9F8F8D9D301C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diner.Test", "Diner.Test\Diner.Test.csproj", "{7686FF56-8DE4-4FA2-82F2-30169EFC6480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF3BB8D-7A1A-4DBD-9A92-9F8F8D9D301C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF3BB8D-7A1A-4DBD-9A92-9F8F8D9D301C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF3BB8D-7A1A-4DBD-9A92-9F8F8D9D301C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF3BB8D-7A1A-4DBD-9A92-9F8F8D9D301C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7686FF56-8DE4-4FA2-82F2-30169EFC6480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7686FF56-8DE4-4FA2-82F2-30169EFC6480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7686FF56-8DE4-4FA2-82F2-30169EFC6480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7686FF56-8DE4-4FA2-82F2-30169EFC6480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C19976-3EF4-4D15-ADB1-90B31529EFEB}
+	EndGlobalSection
+EndGlobal

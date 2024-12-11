@@ -1,0 +1,12 @@
+U:\POSE\2BHIF\Books\Books\Book\bin\Debug\Book.dll
+U:\POSE\2BHIF\Books\Books\Book\bin\Debug\Book.pdb
+U:\POSE\2BHIF\Books\Books\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+U:\POSE\2BHIF\Books\Books\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+U:\POSE\2BHIF\Books\Books\Book\obj\Debug\Book.dll
+U:\POSE\2BHIF\Books\Books\Book\obj\Debug\Book.pdb
+C:\HIF\2BHIF\POSEOO\03_Books\Books\Book\bin\Debug\Book.dll
+C:\HIF\2BHIF\POSEOO\03_Books\Books\Book\bin\Debug\Book.pdb
+C:\HIF\2BHIF\POSEOO\03_Books\Books\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+C:\HIF\2BHIF\POSEOO\03_Books\Books\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+C:\HIF\2BHIF\POSEOO\03_Books\Books\Book\obj\Debug\Book.dll
+C:\HIF\2BHIF\POSEOO\03_Books\Books\Book\obj\Debug\Book.pdb

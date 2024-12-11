@@ -1,0 +1,15 @@
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\bin\Debug\net6.0\Tickets.exe
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\bin\Debug\net6.0\Tickets.deps.json
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\bin\Debug\net6.0\Tickets.runtimeconfig.json
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\bin\Debug\net6.0\Tickets.dll
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\bin\Debug\net6.0\Tickets.pdb
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\Tickets.csproj.AssemblyReference.cache
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\Tickets.AssemblyInfoInputs.cache
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\Tickets.AssemblyInfo.cs
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\Tickets.csproj.CoreCompileInputs.cache
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\Tickets.dll
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\refint\Tickets.dll
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\Tickets.pdb
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\Tickets.genruntimeconfig.cache
+C:\HIF\2BHIF\POSEOO\14_Tickets\Tickets\Tickets\obj\Debug\net6.0\ref\Tickets.dll

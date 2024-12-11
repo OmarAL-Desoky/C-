@@ -1,0 +1,12 @@
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\bin\Debug\net6.0\PearlNecklace.deps.json
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\bin\Debug\net6.0\PearlNecklace.dll
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\bin\Debug\net6.0\PearlNecklace.pdb
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\obj\Debug\net6.0\PearlNecklace.csproj.AssemblyReference.cache
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\obj\Debug\net6.0\PearlNecklace.GeneratedMSBuildEditorConfig.editorconfig
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\obj\Debug\net6.0\PearlNecklace.AssemblyInfoInputs.cache
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\obj\Debug\net6.0\PearlNecklace.AssemblyInfo.cs
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\obj\Debug\net6.0\PearlNecklace.csproj.CoreCompileInputs.cache
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\obj\Debug\net6.0\PearlNecklace.dll
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\obj\Debug\net6.0\refint\PearlNecklace.dll
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\obj\Debug\net6.0\PearlNecklace.pdb
+C:\HIF\2BHIF\POSEOO\09_PearlNecklace\PearlNecklace\PearlNecklace\obj\Debug\net6.0\ref\PearlNecklace.dll

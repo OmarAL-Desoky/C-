@@ -1,0 +1,15 @@
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\Fraction.csproj.AssemblyReference.cache
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\Fraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\Fraction.AssemblyInfoInputs.cache
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\Fraction.AssemblyInfo.cs
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\Fraction.csproj.CoreCompileInputs.cache
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\bin\Debug\net6.0\Fraction.exe
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\bin\Debug\net6.0\Fraction.deps.json
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\bin\Debug\net6.0\Fraction.runtimeconfig.json
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\bin\Debug\net6.0\Fraction.dll
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\bin\Debug\net6.0\Fraction.pdb
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\Fraction.dll
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\refint\Fraction.dll
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\Fraction.pdb
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\Fraction.genruntimeconfig.cache
+C:\HIF\2BHIF\POSEOO\00_Fraction\Fraction\Fraction\obj\Debug\net6.0\ref\Fraction.dll

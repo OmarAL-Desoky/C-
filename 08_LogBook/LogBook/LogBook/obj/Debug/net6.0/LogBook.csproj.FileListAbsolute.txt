@@ -1,0 +1,12 @@
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\bin\Debug\net6.0\LogBook.deps.json
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\bin\Debug\net6.0\LogBook.dll
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\bin\Debug\net6.0\LogBook.pdb
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\obj\Debug\net6.0\LogBook.csproj.AssemblyReference.cache
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\obj\Debug\net6.0\LogBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\obj\Debug\net6.0\LogBook.AssemblyInfoInputs.cache
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\obj\Debug\net6.0\LogBook.AssemblyInfo.cs
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\obj\Debug\net6.0\LogBook.csproj.CoreCompileInputs.cache
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\obj\Debug\net6.0\LogBook.dll
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\obj\Debug\net6.0\refint\LogBook.dll
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\obj\Debug\net6.0\LogBook.pdb
+C:\HIF\2BHIF\POSEOO\07_LogBook\LogBook\LogBook\obj\Debug\net6.0\ref\LogBook.dll

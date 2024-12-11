@@ -1,0 +1,78 @@
+@startuml
+package System {
+    interface IComparable<T> {
+        + {abstract} CompareTo(T) : int
+    }
+}
+
+package System.Collections.Generic {
+    interface IComparer<T> {
+        + {abstract} Compare(T, T) : int
+    }
+}
+
+class Company {
+    - workers : List<Worker>
+    ---
+    + WorkerCount : int
+    + TotalSalaryToPay : double
+    + HireWorker() : bool
+    + FireWorker() : bool
+    + SortWorkersByCatalogNumber() : worker[]
+}
+
+class SalaryComparer implements System.Collections.Generic.IComparer{
+    - hours : double
+    ---
+    + salaryForWorkingHoursComparer(double)
+    + Compare(Worker, Worker) : int
+}
+
+abstract class Worker implements System.IComparable{
+    - <<get>> name : string
+    - <<get>> workedHours : double
+    - <<get>> catalogNumber : int
+    - <<get>> baseSalary : double
+    ---
+    + {abstract} CalculateSalary : double
+    + {abstract} PrintInfo() : void
+    + Worker(string, double, double)
+    + Worker(string, double)
+    + CompareTo(Worker) : int
+    + Equals(Worker) : bool
+    + GetHashCode() : int
+    + Work(double) : double
+    + {static} IsValidCatalogNumber(int) : bool
+}
+
+class Programmer extends Worker {
+    - <<get>> coffeePerHour : int
+    ---
+    + Programmer(string, double, double, int)
+    + Programmer(string, double, int)
+    + PrintInfo() : void
+    + CalculateSalary() : double
+}
+
+class SysAdmin extends Worker{
+    - <<get/set>> taskCount : int
+    - <<get>> helpedWorkers : int
+    ---
+    + SysAdmin(string, double, double)
+    + SysAdmin(string, double)
+    + PrintInfo() : void
+    + CalculateSalary() : double
+    + UpdateSystem() : void
+    + HelpWorkers() : int
+}
+
+class Accountant extends Worker {
+    + Accountant(string, double, double)
+    + Accountant(string, double)
+    + PrintInfo() : void
+    + CalculateSalary() : double
+}
+
+Company --> "0..*" Worker
+Company -- SalaryComparer : uses >
+@enduml

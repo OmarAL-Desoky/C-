@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelServiceSA", "ParcelServiceSA\ParcelServiceSA.csproj", "{3179B0A1-0BB9-4699-98FE-AF099E0F04DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelServiceSA.Test", "ParcelServiceSA.Test\ParcelServiceSA.Test.csproj", "{5E4F6290-3EBF-4D56-ABCF-8826FF9AAA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3179B0A1-0BB9-4699-98FE-AF099E0F04DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3179B0A1-0BB9-4699-98FE-AF099E0F04DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3179B0A1-0BB9-4699-98FE-AF099E0F04DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3179B0A1-0BB9-4699-98FE-AF099E0F04DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E4F6290-3EBF-4D56-ABCF-8826FF9AAA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4F6290-3EBF-4D56-ABCF-8826FF9AAA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4F6290-3EBF-4D56-ABCF-8826FF9AAA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4F6290-3EBF-4D56-ABCF-8826FF9AAA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D5420F-6530-4064-8B14-1A696ABC73A2}
+	EndGlobalSection
+EndGlobal

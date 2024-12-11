@@ -1,0 +1,14 @@
+U:\POSE\2BHIF\Circle\Circle\bin\Debug\net6.0\Circle.exe
+U:\POSE\2BHIF\Circle\Circle\bin\Debug\net6.0\Circle.deps.json
+U:\POSE\2BHIF\Circle\Circle\bin\Debug\net6.0\Circle.runtimeconfig.json
+U:\POSE\2BHIF\Circle\Circle\bin\Debug\net6.0\Circle.dll
+U:\POSE\2BHIF\Circle\Circle\bin\Debug\net6.0\Circle.pdb
+U:\POSE\2BHIF\Circle\Circle\obj\Debug\net6.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+U:\POSE\2BHIF\Circle\Circle\obj\Debug\net6.0\Circle.AssemblyInfoInputs.cache
+U:\POSE\2BHIF\Circle\Circle\obj\Debug\net6.0\Circle.AssemblyInfo.cs
+U:\POSE\2BHIF\Circle\Circle\obj\Debug\net6.0\Circle.csproj.CoreCompileInputs.cache
+U:\POSE\2BHIF\Circle\Circle\obj\Debug\net6.0\Circle.dll
+U:\POSE\2BHIF\Circle\Circle\obj\Debug\net6.0\refint\Circle.dll
+U:\POSE\2BHIF\Circle\Circle\obj\Debug\net6.0\Circle.pdb
+U:\POSE\2BHIF\Circle\Circle\obj\Debug\net6.0\Circle.genruntimeconfig.cache
+U:\POSE\2BHIF\Circle\Circle\obj\Debug\net6.0\ref\Circle.dll

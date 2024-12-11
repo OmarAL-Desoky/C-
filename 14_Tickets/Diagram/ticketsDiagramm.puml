@@ -1,0 +1,47 @@
+@startuml
+
+abstract class Ticket {
+    - {static} idCounter : int
+    - <<get>> id : int
+    - <<get>> name : string
+    - <<get>> place : string
+    - <<get>> price : double 
+    + Ticket(string, string, double)
+    + {abstract} CalculatePrice() : double
+    + PrintTicket() : void 
+}
+
+class ConcertTicket extends Ticket {
+    - <<get/set>> seatPosition : int 
+    + ConcertTicket(string, string, double, int)
+    + CalculatePrice() : double
+    + PrintTicket() : void
+}
+
+class CinemaTicket extends Ticket {
+    - <<get/set>> minutes : int 
+    + CinemaTicket(string, string, double, int)
+    + CalculatePrice() : double
+    + PrintTicket() : void
+}
+
+class DriveInCinemaTicket extends CinemaTicket {
+    - <<get/set>> passengerCount : int
+    + DriveInCinemaTicket(string, string, double, int, int)
+    + CalculatePrice() : double
+}
+
+class SoccerTicket extends Ticket {
+    - <<get/set>> placeCategory : PlaceCategory
+    + CinemaTicket(string, string, double, int)
+    + CalculatePrice() : double
+    + PrintTicket() : void
+}
+
+enum PlaceCategory {
+    Standing,
+    Seat,
+    VIP
+}
+
+@enduml

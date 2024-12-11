@@ -1,0 +1,12 @@
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\bin\Debug\net6.0\HomeworkOrganizer.deps.json
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\bin\Debug\net6.0\HomeworkOrganizer.dll
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\bin\Debug\net6.0\HomeworkOrganizer.pdb
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\obj\Debug\net6.0\HomeworkOrganizer.csproj.AssemblyReference.cache
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\obj\Debug\net6.0\HomeworkOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\obj\Debug\net6.0\HomeworkOrganizer.AssemblyInfoInputs.cache
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\obj\Debug\net6.0\HomeworkOrganizer.AssemblyInfo.cs
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\obj\Debug\net6.0\HomeworkOrganizer.csproj.CoreCompileInputs.cache
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\obj\Debug\net6.0\HomeworkOrganizer.dll
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\obj\Debug\net6.0\refint\HomeworkOrganizer.dll
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\obj\Debug\net6.0\HomeworkOrganizer.pdb
+C:\HIF\2BHIF\POSEOO\12_HomeworkOrganizer\HomeworkOrganizer\HomeworkOrganizer\obj\Debug\net6.0\ref\HomeworkOrganizer.dll

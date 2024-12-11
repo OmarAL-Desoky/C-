@@ -1,0 +1,12 @@
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\bin\Debug\net6.0\CompanyManager.deps.json
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\bin\Debug\net6.0\CompanyManager.dll
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\bin\Debug\net6.0\CompanyManager.pdb
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\obj\Debug\net6.0\CompanyManager.csproj.AssemblyReference.cache
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\obj\Debug\net6.0\CompanyManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\obj\Debug\net6.0\CompanyManager.AssemblyInfoInputs.cache
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\obj\Debug\net6.0\CompanyManager.AssemblyInfo.cs
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\obj\Debug\net6.0\CompanyManager.csproj.CoreCompileInputs.cache
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\obj\Debug\net6.0\CompanyManager.dll
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\obj\Debug\net6.0\refint\CompanyManager.dll
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\obj\Debug\net6.0\CompanyManager.pdb
+C:\HIF\2BHIF\POSEOO\18_EigeneAngabe\CompanyManager\CompanyManager\obj\Debug\net6.0\ref\CompanyManager.dll

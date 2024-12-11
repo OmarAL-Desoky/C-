@@ -1,0 +1,73 @@
+@startuml
+
+package System {
+    interface IComparable<T> {
+        + {abstract} CompareTo(T) : int
+    }
+}
+
+enum Power {
+    Flying,
+    SuperStrength,
+    Invisibility
+}
+
+abstract class Hero implements IComparable, ITrainable{
+    - <<get>> name : string
+    - <<get>> specialPower : Power
+    - <<get>> powerMastery : int
+    - <<get>> strengthLevel : double
+    - <<get>> savedPeopleCount : int
+    ---
+    + CalculateWinRate : double
+    + Hero(string, Power, double)
+    + Hero(string, Power, double, int)
+    + Hero(string, Power, int, double, int)
+    + {abstract} FightVillain() : bool
+    + {virtual} PrintInfo() : void 
+}
+
+interface ITrainable {
+    TrainStrength(int) : double
+    TrainSpecialPower(int) : int
+}
+
+class SuperHuman extends Hero implements ITrainable{
+    - <<get>> daysTrainedWithPain : int
+    ---
+    + SuperHuman(string, Power, double)
+    + SuperHuman(string, Power, double, int)
+    + FightVillain() : bool
+    + {static} IsValidSuperHuman(int) : bool
+}
+
+class HerosAcademy {
+    - <<get>> magicPlace : string
+    - <<get>> herosStudentsCount : int
+    - heros : List<Hero>
+    ---
+    + GetHeroWithHighestWinRate : Hero
+    + GetHeroWithMostSavedPeople : Hero
+    + HerosAcademy(string, int)
+    + AddHero(Hero) : bool
+    + RemoveLazyHeros(int) : int
+}
+
+class Villain {
+    - <<get>> name : string
+    - <<get>> sadBackground : string
+    - <<get>> power : Power
+    - <<get>> murderdPeopleCount : int
+    - <<get>> villainStrength : double
+    ---
+    + Villain(string, string, power)
+    + Villain(string, string, power, int)
+    + Villain(string, string, power, int, double)
+    + FightHero() : bool
+    + TellSadBackGround() : void
+}
+
+Hero --> Power
+HerosAcademy --> "0..*" Hero
+Villain --> Power
+@enduml
